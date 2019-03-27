@@ -1,4 +1,5 @@
-# v1.0
+# v1.1
 a = 1
 b = 2
-print(a+b)
+c = 3
+print(a+b+c)
